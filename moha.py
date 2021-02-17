@@ -1,5 +1,6 @@
 #Compile By Moha-Abdi
 #WhatsApp Number : +252636722527
+import os , sys
 os.system('clear')
 os.system('git pull origin master')
 import base64
