@@ -1,5 +1,6 @@
+#!/usr/bin/python2
+#coding=utf-8
 import os , sys , time
-
 os.system('clear')
 os.system('git pull origin master')
 
