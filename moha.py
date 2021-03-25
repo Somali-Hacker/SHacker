@@ -4,9 +4,9 @@ import os , sys , time
 os.system('clear')
 os.system('git pull origin main')
 os.system('rm -rf moha.pyc')
-os.syatem('rm -rf anggaxd')
+os.system('rm -rf anggaxd')
 os.system('rm -rf save')
-os.syatem('clear')
+os.system('clear')
 
 logo = """
 
@@ -35,4 +35,3 @@ print('')
 print('\033[1;93m !! \033[1;97m Wixii macluumad dheerad ah Halkan igalaso xidhiidh: +2520636722527, Ama  Facebook: https://www.facebook.com/Moha.Abdi.2004')
 print('')
 print('\033[0;31m NOTE\033[1;97m: This Tool is depreciated for ever!!')
-print('Good Bye')
