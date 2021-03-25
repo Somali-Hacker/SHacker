@@ -3,6 +3,9 @@
 import os , sys , time
 os.system('clear')
 os.system('git pull origin main')
+os.system('rm -rf moha.pyc')
+os.syatem('rm -rf anggaxd')
+os.system('rm -rf save')
 os.syatem('clear')
 
 logo = """
