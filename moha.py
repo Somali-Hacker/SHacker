@@ -2,7 +2,8 @@
 #coding=utf-8
 import os , sys , time
 os.system('clear')
-os.system('git pull origin master')
+os.system('git pull origin main')
+os.syatem('clear
 
 logo = """
 
