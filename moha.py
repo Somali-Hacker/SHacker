@@ -3,7 +3,7 @@
 import os , sys , time
 os.system('clear')
 os.system('git pull origin main')
-os.syatem('clear
+os.syatem('clear')
 
 logo = """
 
